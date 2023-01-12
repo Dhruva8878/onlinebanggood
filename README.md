@@ -4,23 +4,21 @@ to checkout, add the paymnet details and place a order. Users also can regsiter 
 can sort hign to low and low to high.
 
 ---
-### Medium Link
-https://medium.com/@rkvirajgupta/cloning-of-a-chinese-website-banggood-783ab9c23d74
 
 ### Netlify Link
 
-https://bangood-clone.netlify.app
+https://onlinebanggood.netlify.app/
 
 
 ---
 
 ### Team Members
 
-- **[Ankur Singh](https://github.com/Ankur310)**
-- **[Srikanth](https://github.com/sssrikanthhh)**
-- **[Viraj Gupta](https://github.com/rkvirajgupta/)** 
-- **[Soumya](https://github.com/Soumyaranjankalia)**
-- **[Mayur Wagh](https://github.com/Mayurwagh98)**
+- **[Praful Telgote]**
+- **[Jitesh Babani]**
+- **[Tayyab Ali]** 
+- **[Aftab Alam]**
+- **[Dhruv Gupta]**
 
 ---
 
@@ -60,9 +58,6 @@ https://bangood-clone.netlify.app
 
 ![](/website-pictures/payment-page.png)
 
-### Medium Link
-https://medium.com/@rkvirajgupta/cloning-of-a-chinese-website-banggood-783ab9c23d74
-
 ### Netlify Link
 
-https://bangood-clone.netlify.app
+https://onlinebanggood.netlify.app/
